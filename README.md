@@ -181,7 +181,7 @@ const { data, error, isLoading, refetch } = useQuery<User[], Error>(
 
 ### ⏳ Loading State
 
-<img src="./screenshots/loading.png" alt="Loading State" width="100%" />
+<img src="./screenshots/loading-page.png" alt="Loading State" width="100%" />
 
 ### ❌ Error State
 
